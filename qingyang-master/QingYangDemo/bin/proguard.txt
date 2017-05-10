@@ -1,0 +1,42 @@
+# view res/layout/main_activity.xml #generated:56
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:47
+-keep class com.example.qingyangdemo.ControlMouseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.example.qingyangdemo.DownLoadActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.example.qingyangdemo.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.example.qingyangdemo.PowerOffActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.example.qingyangdemo.SettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.example.qingyangdemo.UploadActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.example.qingyangdemo.WelcomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class com.example.qingyangdemo.base.BaseApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.example.qingyangdemo.ui.FeedBackDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.example.qingyangdemo.ui.IpSetDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.example.qingyangdemo.ui.LocalFileDialog { <init>(...); }
+
+# view AndroidManifest.xml #generated:65
+-keep class com.example.qingyangdemo.ui.LoginDialog { <init>(...); }
+
+# onClick res/layout/setting_activity.xml #generated:15
+-keepclassmembers class * { *** back(...); }
+
