@@ -5,10 +5,10 @@
       <configuration>
         <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../QingYangDemo/gen" />
         <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../QingYangDemo/gen" />
-        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../QingYangDemo/AndroidManifest.xml" />
-        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../QingYangDemo/res" />
-        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../QingYangDemo/assets" />
-        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../QingYangDemo/libs" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../Demo" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../libs" />
         <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../QingYangDemo/proguard_logs" />
       </configuration>
     </facet>
